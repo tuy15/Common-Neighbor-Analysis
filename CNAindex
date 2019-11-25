@@ -1,0 +1,18 @@
+12	1	1   #    fcc bulk 
+12	2	1   #    icosahedral internal twinning plane or HCP
+12	5	2   #    icosahedral spine
+12	5	5   #    icosahedral center
+10	2	0   #    decahedral notch edge
+9	1	1   #    fcc (111) surface (c)
+8	1	1   #    fcc (100) surface
+8	2	1   #    icosahedral surface edge
+7	1	1   #    fcc (111)-(100) edge 
+7	1	0   #    fcc (111)-(111) edge
+7	2	0   #    decahedral notch vertex
+6	5	2   #    icosahedral surface vertex or decahedral axial vertex
+6	1	1   #    tetrahedral edge
+6	1	0   #    truncated octahedron vertex
+5   1   1   #    Cubo corner
+
+
+
